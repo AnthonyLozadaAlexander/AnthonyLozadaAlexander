@@ -3,7 +3,7 @@
 <h2>Sobre mi </h2>
 <!--Intro start-->
 
-<p align="left">
+<p align="center">
 🎓 Estudiante de Tecnologías de la Información
 
 <!--Intro end-->
@@ -12,7 +12,7 @@
 
 <h2 >Tecnologías Conocidas </h2>
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dotnet,git,github,vscode&perline=12" />
   </a>
