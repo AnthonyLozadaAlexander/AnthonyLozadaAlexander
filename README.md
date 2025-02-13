@@ -4,7 +4,7 @@
 <!--Intro start-->
 
 <p align="center">
-🎓 Estudiante de Tecnologías de la Información
+🎓 Estudiante de Informatica
 
 <!--Intro end-->
 </p>
