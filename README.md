@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy AnthonyLozadaAlexander ✨ </h1> 
+<h1 align="center">Hola 👋 soy Anth0ny ✨ </h1> 
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
