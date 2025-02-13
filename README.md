@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋 soy Anth0ny ✨ </h1> 
+<h1 align="center">Hola soy Anth0ny  </h1> 
 
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi </h2>
 <!--Intro start-->
 
 <p align="left">
@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<h2 >Tecnologías conocidas 👨🏻‍💻</h2>
+<h2 >Tecnologías Conocidas </h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
