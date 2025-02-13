@@ -28,6 +28,12 @@
   <td width="60%" align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AnthonyLozadaAlexander streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyLozadaAlexander&theme=dark&hide_border=false" /> 
   </td>
+<!------------------------------------------------------------------------------------------------------------------------------------->
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnthonyLozadaAlexander&bg_color=0d1117&color=ffffff&line=ffff00&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!------------------------------------------------------------------------------------------------------------------------------------->
 
   <td width="40%" align="center">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnthonyLozadaAlexander&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
