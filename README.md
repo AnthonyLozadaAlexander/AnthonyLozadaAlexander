@@ -4,7 +4,7 @@
 <!--Intro start-->
 
 <p align="center">
-🎓 Studiant Of Informatic
+🎓 Informatics Student
 
 <!--Intro end-->
 </p>
