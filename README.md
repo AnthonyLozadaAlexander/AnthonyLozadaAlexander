@@ -11,11 +11,11 @@
   </p>
 <!--Intro end-->
 </p>
-<h2 align="center">Languages </h2>
+<h2 align="center">Languages & Tools </h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,dotnet,git,github,vscode,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dotnet,github,vscode,&perline=12" />
   </a>
 </p>
 <!------------------------------------------------------------------------------------------------------------------------------------->
