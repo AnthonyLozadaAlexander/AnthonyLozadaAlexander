@@ -20,7 +20,7 @@
 <br>
 <!-------------------------->
 
-<h2>GitHub :octocat:</h2>
+<h2>GitHub </h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <table align="left">
