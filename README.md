@@ -1,16 +1,16 @@
 <h1 align="center">Hola soy Anth0ny  </h1> 
 
-<h2>Sobre mi </h2>
+<h2>About me </h2>
 <!--Intro start-->
 
 <p align="center">
-🎓 Estudiante de Informatica
+🎓 Studiant Of Informatic
 
 <!--Intro end-->
 </p>
 <br>
 
-<h2 >Tecnologías Conocidas </h2>
+<h2 >Languages </h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
