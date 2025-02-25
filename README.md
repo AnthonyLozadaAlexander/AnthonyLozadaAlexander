@@ -5,7 +5,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 <h2 align="center">About me </h2> 
 <p align="center">
-🎓 Software Engineering Student
+🎓 TI Engineering Student
 <p align="center">
   20 Years old
   </p>
