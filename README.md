@@ -21,11 +21,6 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 <h2 align = "center">GitHub </h2>
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <table align="center">
-  <tr border="none">
-  <td width="60%" align="center">
-  </td>
 
   <td width="40%" align="center">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnthonyLozadaAlexander&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
