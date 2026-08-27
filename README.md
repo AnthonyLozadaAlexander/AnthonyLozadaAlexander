@@ -25,7 +25,6 @@
   <table align="center">
   <tr border="none">
   <td width="60%" align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AnthonyLozadaAlexander streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyLozadaAlexander&theme=dark&hide_border=false" /> 
   </td>
 
   <td width="40%" align="center">
